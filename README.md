@@ -15,4 +15,4 @@ Lý thuyết :
 12. Câu 20 : https://codepen.io/phuongdien/pen/GRGYBBE
 13. Câu 21 : https://codepen.io/phuongdien/pen/abKRjab
 Thực hành :
-1. Bài thực hành pros and state :
+1. Bài thực hành pros and state : https://codepen.io/phuongdien/pen/eYKXpNg
